@@ -1,7 +1,0 @@
-BỘ TẠO EXE — CẨM NANG PLC MITSUBISHI FX
-Bản này đã có cấu trúc thanh ghi 16 bit/32 bit theo hình giáo trình, bảng bit/ thanh ghi đặc biệt servo.
-1. Giải nén ZIP trên Windows 10/11.
-2. Cài Python 3 từ https://www.python.org/downloads/windows/ và chọn Add Python to PATH.
-3. Nhấp đúp TAO_EXE.bat.
-4. EXE được tạo tại dist\CamNangPLC.exe.
-Cần Internet lần đầu để cài PyInstaller. EXE mở website trong trình duyệt mặc định.
